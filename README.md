@@ -3,11 +3,10 @@ The dataset used, its source and characteristics: https://www.kaggle.com/dileep0
 Input Features of the dataset:
   •	Age, totChol, sysBP, diaBP, BMI, heartrate, glucose
 Output Feature of the dataset:
-  •	TenYearCHD (10-year risk of coronary heart disease)
+	TenYearCHD (10-year risk of coronary heart disease)
     
-The solution w (parameter vector).
-	Linear Regression Solution:
-    •	Coefficients/Weights: [[ 0.06018171  0.00023588  0.01387904  0.00658462 -0.00869778 -0.00507179 0.00788667]]
+Linear Regression Solution:
+Coefficients/Weights: [[ 0.06018171  0.00023588  0.01387904  0.00658462 -0.00869778 -0.00507179 0.00788667]]
     •	Intercept/Bias: [-7.36180474]
 
 The learning rate(s) used for gradient descent and how many iterations it took for gradient descent to converge.
